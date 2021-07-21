@@ -1,0 +1,3 @@
+[submodule "transamerica.cloud.autoscalinggroup.ami.windowsAgent"]
+	path = transamerica.cloud.autoscalinggroup.ami.windowsAgent
+	url = http://bitbucket.us.aegon.com/scm/tacloudmodule/transamerica.cloud.autoscalinggroup.ami.windowsagent.git
